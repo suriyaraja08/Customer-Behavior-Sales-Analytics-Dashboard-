@@ -1,0 +1,2 @@
+# Customer-Behavior-Sales-Analytics-Dashboard-
+Customer Behavior &amp; Sales Analytics Dashboard project focused on end-to-end data analysis, business intelligence, and data-driven decision making. This project involves data cleaning, data preprocessing, exploratory data analysis (EDA), data transformation, and data modeling using Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL), and Power BI.
